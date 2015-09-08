@@ -1,3 +1,3 @@
-# Code-Notebook
-My coding notebook!!
+# FE-Notebook
+My FE notebook.
 
